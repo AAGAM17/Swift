@@ -1,4 +1,4 @@
 <<<<<<<
 =======
-Try: swiftaibeta.netlify.app
+Try: https://www.swiftaibeta.netlify.app
 >>>>>>>
